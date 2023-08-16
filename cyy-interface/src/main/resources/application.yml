@@ -1,0 +1,8 @@
+server:
+  port: 8123
+  servlet:
+    context-path: /api
+cyyapi:
+  client:
+    access-key: 1414
+    secret-key: abcdefgh

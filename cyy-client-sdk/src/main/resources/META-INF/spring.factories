@@ -1,0 +1,3 @@
+#spring boot starter
+    #?spring boot???????
+org.springframework.boot.autoconfigure.EnableAutoConfiguration =com.cyy.cyyclientsdk.cyyApiClientConfig 
